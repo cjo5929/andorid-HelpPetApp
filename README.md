@@ -43,7 +43,7 @@
 * php
 
 ## 기능
-* GoogleMaps를 이용한 GPS시스템
+* GoogleMaps를 이용한 주변위치 검색 시스템
 * FireBase의 Realtime Database를 이용한 실시간 익명 채팅시스템
 * MySql을 이용한 로그인 및 회원가입
 * MySql을 이용한 리뷰 시스템
