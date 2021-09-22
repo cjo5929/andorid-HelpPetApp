@@ -32,7 +32,7 @@
 
 # 실행 영상
 
-
+https://github.com/cjo5929/andorid-HelpPetApp/issues/1#issue-1004286789
 
 
 ## 개발 환경
