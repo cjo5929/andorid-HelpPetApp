@@ -32,7 +32,8 @@
 
 # 실행 영상
 
-https://user-images.githubusercontent.com/90138160/134350358-5034da10-2425-4a7f-ac10-d11c731ab962.gif
+![HELP PET 시제품 구동 영상](https://user-images.githubusercontent.com/90138160/134350358-5034da10-2425-4a7f-ac10-d11c731ab962.gif)
+
 
 
 ## 개발 환경
